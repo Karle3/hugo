@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:26864/</loc>
+    <lastmod>2025-06-08T13:32:10+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/sektion/sektion_eins/</loc>
+    <lastmod>2025-06-08T13:32:10+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/sektion/</loc>
+    <lastmod>2025-06-08T13:32:10+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/posts/aeronaut/</loc>
+    <lastmod>2025-06-08T13:25:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/posts/</loc>
+    <lastmod>2025-06-08T13:25:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/posts/astro-and-comets/</loc>
+    <lastmod>2025-06-08T13:24:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/posts/meins/</loc>
+    <lastmod>2025-06-08T13:24:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:26864/categories/</loc>
+  </url><url>
+    <loc>http://localhost:26864/tags/</loc>
+  </url>
+</urlset>

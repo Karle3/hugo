@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karles HuGo Sample</title>
+    <link>http://localhost:26864/</link>
+    <description>Recent content on Karles HuGo Sample</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 08 Jun 2025 13:32:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:26864/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sektion_eins</title>
+      <link>http://localhost:26864/sektion/sektion_eins/</link>
+      <pubDate>Sun, 08 Jun 2025 13:32:10 +0200</pubDate>
+      <guid>http://localhost:26864/sektion/sektion_eins/</guid>
+      <description>&lt;h1 id=&#34;sektion&#34;&gt;Sektion!&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Aeronaut</title>
+      <link>http://localhost:26864/posts/aeronaut/</link>
+      <pubDate>Sun, 08 Jun 2025 13:25:04 +0200</pubDate>
+      <guid>http://localhost:26864/posts/aeronaut/</guid>
+      <description>&lt;h1 id=&#34;aeronaut&#34;&gt;Aeronaut&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Astro and Comets</title>
+      <link>http://localhost:26864/posts/astro-and-comets/</link>
+      <pubDate>Sun, 08 Jun 2025 13:24:37 +0200</pubDate>
+      <guid>http://localhost:26864/posts/astro-and-comets/</guid>
+      <description>&lt;h1 id=&#34;astro-and-comets&#34;&gt;Astro and Comets&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Meins</title>
+      <link>http://localhost:26864/posts/meins/</link>
+      <pubDate>Sun, 08 Jun 2025 13:24:06 +0200</pubDate>
+      <guid>http://localhost:26864/posts/meins/</guid>
+      <description>&lt;h1 id=&#34;meins&#34;&gt;Meins&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
