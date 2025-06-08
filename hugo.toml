@@ -1,4 +1,11 @@
 baseURL = ''
-languageCode = 'de-de'
+languageCode = 'de-DE'
 title = 'Karles HuGo Sample'
 theme = 'ananke'
+
+# https://themes.gohugo.io/
+
+# de-DE :  https://datatracker.ietf.org/doc/html/rfc5646#section-2.2.7
+# https://gohugo.io/getting-started/configuration/
+
+# https://www.ionos.de/hilfe/hosting/deploy-now/projekte-einrichten-und-verwalten/

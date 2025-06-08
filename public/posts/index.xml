@@ -5,9 +5,16 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Karles HuGo Sample</description>
     <generator>Hugo</generator>
-    <language>de-de</language>
-    <lastBuildDate>Sun, 08 Jun 2025 13:25:04 +0200</lastBuildDate>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 08 Jun 2025 17:55:06 +0200</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meins</title>
+      <link>/posts/meins/</link>
+      <pubDate>Sun, 08 Jun 2025 17:55:06 +0200</pubDate>
+      <guid>/posts/meins/</guid>
+      <description>&lt;h1 id=&#34;meins&#34;&gt;Meins&lt;/h1&gt;&#xA;&lt;h1 id=&#34;hugo&#34;&gt;HUGO&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;QuickStart&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;Page Header&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/usage/&#34;&gt;Basic Usage&lt;/a&gt; see draft state&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/directory-structure/&#34;&gt;directory structure&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;front matter&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/quick-reference/&#34;&gt;quick reference&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;commands&#34;&gt;commands&lt;/h1&gt;&#xA;&lt;p&gt;In the base directory of the project called **site&amp;rsquo;&#39;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;build&#34;&gt;Build&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;newpage&#34;&gt;NewPage&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new content content/posts/&amp;lt;page_name&amp;gt;.md&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;integratedwebserver&#34;&gt;IntegratedWebserver&lt;/h2&gt;&#xA;&lt;p&gt;as a local host with a specific port , like  &lt;a href=&#34;//localhost:1313/&#34;&gt; //localhost:1313/ &lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server --buildDrafts&#xA;&#xA;hugo server --disableFastRender&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;orga&#34;&gt;Orga&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/organization/&#34;&gt;https://gohugo.io/content-management/organization/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/page-resources/&#34;&gt;https://gohugo.io/content-management/page-resources/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/sections/&#34;&gt;https://gohugo.io/content-management/sections/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Aeronaut</title>
       <link>/posts/aeronaut/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 08 Jun 2025 13:24:37 +0200</pubDate>
       <guid>/posts/astro-and-comets/</guid>
       <description>&lt;h1 id=&#34;astro-and-comets&#34;&gt;Astro and Comets&lt;/h1&gt;&#xA;&lt;h2 id=&#34;2024-10-21-finally-the-comet-was-seen&#34;&gt;2024-10-21: Finally the comet was seen!&lt;/h2&gt;&#xA;&lt;p&gt;The maximum brightness was missed due to cloudy weather. At a&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Magnitude_(astronomy)&#34;&gt;magnitude&lt;/a&gt; of 4.4 the observation was difficult to the naked eyes.&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adaptation_(eye)&#34;&gt;Dark-adaption&lt;/a&gt; and&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Averted_vision&#34;&gt;averted-vision&lt;/a&gt; helped a lot, and of course the optical tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;8x20 Trinovid binocular&lt;/li&gt;&#xA;&lt;li&gt;10&amp;quot; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dobsonian_telescope&#34;&gt;Dobsonian&lt;/a&gt;  with 2&amp;quot; wide-angle&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eyepiece#Erfle&#34;&gt;Erfle-eyepiece&lt;/a&gt;, two degree&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Field_of_view&#34;&gt;field-of-view&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera&#34;&gt;DSLR&lt;/a&gt;  on a tripod, using a fixed focal length&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zeiss_Planar&#34;&gt;50mm-Planar&lt;/a&gt;  (f/1,7), which acts as 75mm due to CropFactor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;c2023-a3----tsuchinshan---atlas&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)&#34;&gt;C/2023 A3 &lt;/a&gt;    &lt;a href=&#34;https://en.wikipedia.org/wiki/Purple_Mountain_Observatory&#34;&gt;Tsuchinshan&lt;/a&gt; - &lt;a href=&#34;https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System&#34;&gt;ATLAS&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ephemeris&#34;&gt;Ephemerides&lt;/a&gt;  as&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Right_ascension&#34;&gt;right ascension&lt;/a&gt; and&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Equatorial_coordinate_system#Declination&#34;&gt;declination&lt;/a&gt; :&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meins</title>
-      <link>/posts/meins/</link>
-      <pubDate>Sun, 08 Jun 2025 13:24:06 +0200</pubDate>
-      <guid>/posts/meins/</guid>
-      <description>&lt;h1 id=&#34;meins&#34;&gt;Meins&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
