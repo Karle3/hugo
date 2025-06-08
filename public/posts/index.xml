@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Karles HuGo Sample</title>
-    <link>http://localhost:26864/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Karles HuGo Sample</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 08 Jun 2025 13:25:04 +0200</lastBuildDate>
-    <atom:link href="http://localhost:26864/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aeronaut</title>
-      <link>http://localhost:26864/posts/aeronaut/</link>
+      <link>/posts/aeronaut/</link>
       <pubDate>Sun, 08 Jun 2025 13:25:04 +0200</pubDate>
-      <guid>http://localhost:26864/posts/aeronaut/</guid>
-      <description>&lt;h1 id=&#34;aeronaut&#34;&gt;Aeronaut&lt;/h1&gt;</description>
+      <guid>/posts/aeronaut/</guid>
+      <description>&lt;h1 id=&#34;aeronaut&#34;&gt;Aeronaut&lt;/h1&gt;&#xA;&lt;h2 id=&#34;spickzettel-sektoren-edds-luftraum-d&#34;&gt;Spickzettel Sektoren, EDDS, Luftraum D:&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;- Alb-Süd/Ost, über FL75 / 2286m (bei 1013,25hPa)&#xA;- Alb-Nord, über&#x9;4500ft / 1372m (MSL)&#xA;- Langen-Info:&#x9;128,950 MHz (Einzelfreigabe)&#xA;- Segelfl.:  &#x9;134,505 MHz (2021, 10m upd, ED-R132)&#xA;- ATIS Stuttg:&#x9;126,125 MHz (2019)&#xA;- Stuttg Twr:&#x9;119,050 MHz&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Transponderpflicht (motorgetriebene Luftfahrzeuge)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;über 5000ft / 1500m MSL,&lt;/li&gt;&#xA;&lt;li&gt;bzw. 3500ft / 1000m AGL (der höhere Wert gilt).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Transponderpflicht (VFR)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VFR und TMZ: A/C 7000 (Squawk, Code, Monitor)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sonstiges&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astro and Comets</title>
-      <link>http://localhost:26864/posts/astro-and-comets/</link>
+      <link>/posts/astro-and-comets/</link>
       <pubDate>Sun, 08 Jun 2025 13:24:37 +0200</pubDate>
-      <guid>http://localhost:26864/posts/astro-and-comets/</guid>
-      <description>&lt;h1 id=&#34;astro-and-comets&#34;&gt;Astro and Comets&lt;/h1&gt;</description>
+      <guid>/posts/astro-and-comets/</guid>
+      <description>&lt;h1 id=&#34;astro-and-comets&#34;&gt;Astro and Comets&lt;/h1&gt;&#xA;&lt;h2 id=&#34;2024-10-21-finally-the-comet-was-seen&#34;&gt;2024-10-21: Finally the comet was seen!&lt;/h2&gt;&#xA;&lt;p&gt;The maximum brightness was missed due to cloudy weather. At a&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Magnitude_(astronomy)&#34;&gt;magnitude&lt;/a&gt; of 4.4 the observation was difficult to the naked eyes.&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Adaptation_(eye)&#34;&gt;Dark-adaption&lt;/a&gt; and&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Averted_vision&#34;&gt;averted-vision&lt;/a&gt; helped a lot, and of course the optical tools:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;8x20 Trinovid binocular&lt;/li&gt;&#xA;&lt;li&gt;10&amp;quot; &lt;a href=&#34;https://en.wikipedia.org/wiki/Dobsonian_telescope&#34;&gt;Dobsonian&lt;/a&gt;  with 2&amp;quot; wide-angle&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Eyepiece#Erfle&#34;&gt;Erfle-eyepiece&lt;/a&gt;, two degree&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Field_of_view&#34;&gt;field-of-view&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera&#34;&gt;DSLR&lt;/a&gt;  on a tripod, using a fixed focal length&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Zeiss_Planar&#34;&gt;50mm-Planar&lt;/a&gt;  (f/1,7), which acts as 75mm due to CropFactor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;c2023-a3----tsuchinshan---atlas&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)&#34;&gt;C/2023 A3 &lt;/a&gt;    &lt;a href=&#34;https://en.wikipedia.org/wiki/Purple_Mountain_Observatory&#34;&gt;Tsuchinshan&lt;/a&gt; - &lt;a href=&#34;https://en.wikipedia.org/wiki/Asteroid_Terrestrial-impact_Last_Alert_System&#34;&gt;ATLAS&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ephemeris&#34;&gt;Ephemerides&lt;/a&gt;  as&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Right_ascension&#34;&gt;right ascension&lt;/a&gt; and&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Equatorial_coordinate_system#Declination&#34;&gt;declination&lt;/a&gt; :&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meins</title>
-      <link>http://localhost:26864/posts/meins/</link>
+      <link>/posts/meins/</link>
       <pubDate>Sun, 08 Jun 2025 13:24:06 +0200</pubDate>
-      <guid>http://localhost:26864/posts/meins/</guid>
+      <guid>/posts/meins/</guid>
       <description>&lt;h1 id=&#34;meins&#34;&gt;Meins&lt;/h1&gt;</description>
     </item>
   </channel>
